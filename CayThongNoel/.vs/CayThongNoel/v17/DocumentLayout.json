@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhWeb\\CayThongNoel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55C1E436-B838-4338-B981-80F37E2B4538}|CayThongNoel\\CayThongNoel.csproj|d:\\laptrinhweb\\caythongnoel\\caythongnoel\\html\\chivi-hopqua.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55C1E436-B838-4338-B981-80F37E2B4538}|CayThongNoel\\CayThongNoel.csproj|solutionrelative:caythongnoel\\html\\chivi-hopqua.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C1E436-B838-4338-B981-80F37E2B4538}|CayThongNoel\\CayThongNoel.csproj|D:\\LapTrinhWeb\\CayThongNoel\\caythongnoel\\html\\chivi-caythong.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55C1E436-B838-4338-B981-80F37E2B4538}|CayThongNoel\\CayThongNoel.csproj|solutionrelative:caythongnoel\\html\\chivi-caythong.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChiVi-HopQua.html",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\CayThongNoel\\CayThongNoel\\html\\ChiVi-HopQua.html",
+              "RelativeDocumentMoniker": "CayThongNoel\\html\\ChiVi-HopQua.html",
+              "ToolTip": "D:\\LapTrinhWeb\\CayThongNoel\\CayThongNoel\\html\\ChiVi-HopQua.html",
+              "RelativeToolTip": "CayThongNoel\\html\\ChiVi-HopQua.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-08T06:49:52.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChiVi-CayThong.html",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\CayThongNoel\\CayThongNoel\\html\\ChiVi-CayThong.html",
+              "RelativeDocumentMoniker": "CayThongNoel\\html\\ChiVi-CayThong.html",
+              "ToolTip": "D:\\LapTrinhWeb\\CayThongNoel\\CayThongNoel\\html\\ChiVi-CayThong.html",
+              "RelativeToolTip": "CayThongNoel\\html\\ChiVi-CayThong.html",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-08T06:35:09.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
